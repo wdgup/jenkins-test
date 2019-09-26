@@ -17,4 +17,8 @@ public class JenkinsTestApplication {
     public String test(){
         return "hello world";
     }
+
+    public String one(){
+        return "";
+    }
 }
